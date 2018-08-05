@@ -5,3 +5,5 @@
 - [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge)
 
 - [Home Credit official competition](https://www.kaggle.com/c/home-credit-default-risk)
+
+- [What's Cooking? (NLP)](https://www.kaggle.com/c/whats-cooking-kernels-only) 
